@@ -15,4 +15,6 @@ Results of the model were following:
 5) Test Set Accuracy : 98.14 %
 6) Test Set Loss : 0.06641
 
+Google Colab Project Link : https://colab.research.google.com/drive/1oeA2Rp5B_8VWtOXEoY7R4dQMaO4pZe_y?usp=sharing
+
 ![image](https://user-images.githubusercontent.com/77073932/128634391-9ea593fd-87c6-4646-88d6-573adeb3b6a5.png)
